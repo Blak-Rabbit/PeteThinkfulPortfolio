@@ -42,6 +42,11 @@ article div {
   width: 100%;
 }
 
+/* added for proper alignment of this portion of code */
+#aboutMe{
+  text-align:left;
+}
+
 p {
   line-height: 1.5;
 }
